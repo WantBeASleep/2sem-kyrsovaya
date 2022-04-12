@@ -1,4 +1,4 @@
-from crypt import methods
+# from crypt import methods
 from flask import Flask, render_template, request
 from scipy import stats
 import numpy as np
